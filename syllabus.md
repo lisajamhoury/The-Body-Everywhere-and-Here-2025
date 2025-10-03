@@ -58,12 +58,15 @@ We will be coding using p5. If you'd like to follow along in class please make s
 
 ### Required reading for class! Complete before the first class! 
 
-Please read the following readings before coming to class. It is only six pages of reading in total, but it is a bit thick. Give yourself some time to read and digest. We'll be discussing the materials at the top of our first class, and I'll be looking forward to hearing your thoughts. 
+Please read the following readings before coming to class. Each reading just a few pages, but some of them are a bit thick. Give yourself some time to read and digest. We'll be discussing the materials at the top of our first class, and I'll be looking forward to hearing your thoughts. 
 
 - Readings located on [Google Drive here](https://drive.google.com/drive/folders/1f38QY-0t23d-S_U3265s8vtKPOPRodG3?usp=sharing). Requires NYU Login to access. 
 - [Phenomenology of perception by Maurice Merleau-Ponty](https://drive.google.com/file/d/1xHP96xLGLJasFpEcwCLtYRBVf29x2N0x/view?usp=drive_link), pages 92-94 (through "what sees and touches")
 - [Here/There: Telepresence, Touch, and Art at the Interface by Kris Paulsen](https://drive.google.com/file/d/18o0pNtYZz6qwTM3kNTxX41P0NaaCAPya/view?usp=drive_link), section titled "Telepresent Touch" pages 6-8, starting at bottom of page 6.
-- [The Extended Mind: The Power of Thinking Outside the Brain](https://drive.google.com/file/d/1aN4eHnycAdRNbcw_qE5w3I9PfP2-yqf-/view?usp=drive_link) Pages 1-2. 
+- Closer: Performance, Technologies, Phenomenology by Susan Kozel, Adam Eeuwens, [pdf](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/closer_2.pdf) | [audio file](https://github.com/lisajamhoury/Experiments-on-the-Embodied-Web-2024/tree/main/media)
+- [The Extended Mind: The Power of Thinking Outside the Brain](https://drive.google.com/file/d/1aN4eHnycAdRNbcw_qE5w3I9PfP2-yqf-/view?usp=drive_link) Pages 1-2.
+- [The End of Average, Todd Rose, pages 1-9](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/end_of_avg_intro.pdf)
+
 - Exercise: While reading highlight the lines that stand out to you. For each reading, pick JUST ONE SENTENCE from EACH reading (3 sentences total, one from each reading) Place the 3 sentences in [this Google Doc](https://docs.google.com/document/d/1A0V8LHyBihUWhVIEXwnBUHjbtIPFuhpoxOew1G3grZQ/edit?usp=sharing) along with your first and last name. Requires NYU Login to access doc. Must be completed before class begins.
 
 ## Day One In Class Materials
@@ -81,7 +84,7 @@ Please read the following readings before coming to class. It is only six pages 
 
 - Discussion Topic: What is a body? Should it be online? Why? How? 
 - Discussion of homework readings 
-- Independent and group activity, [Group Activity Board](https://docs.google.com/presentation/d/1OPqotwMUoPWjCXNPqZuH5WtbOx9-1uApTpJBK9XvGKw/edit?usp=sharing)
+- Independent and group activity, [Group Activity Board]()
 - Mocap history, forms, body politics, [Google Slides](https://docs.google.com/presentation/d/1qgpGtGiLlRR9DyI5A3oMUjLAOiqBMJOShj-jgAmCoL4/edit?usp=sharing)
 
 ### Code Block 1
@@ -118,17 +121,15 @@ Please read the following readings before coming to class. It is only six pages 
 ### Theory 
 
 - Embodied interaction in the "third space" [Google Slides](https://docs.google.com/presentation/d/1sJ4Vd6ZlwUMPAeQ3eFfkatguL00LWJLsXO679xzlBXY/edit?usp=sharing) 
-- Closer Reading [pdf](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/closer_2.pdf) | [audio file](https://github.com/lisajamhoury/Experiments-on-the-Embodied-Web-2024/tree/main/media)
 - [Group Activity Board](https://docs.google.com/presentation/d/1rfqIA6Xt9TIUAlnKEouHUfaCz-RMQv6XuWOljKEdzjg/edit?usp=sharing) 
 
 ### Code
 
 - Peer to peer
-- Kinectron, Kinect over peer
-
+  
 #### Examples 
 
-- [Examples](/examples/day_two/)
+- [Examples]() — LINK TO COME 
 
 #### Additional Examples 
 
@@ -206,7 +207,6 @@ Create a rough prototype for two or more people that requires some type of inter
 
 ### Further Reading 
 - [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/artificial_reality_5.pdf)
-- [The End of Average, Todd Rose, pages 1-9](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/end_of_avg_intro.pdf)
 - ["Mismatch: How Inclusion Shapes Design" Kat Holmes](https://mitpress.mit.edu/books/mismatch)
 - [Video: Design for seven billion; design for one - Kat Holmes](https://www.youtube.com/watch?v=vPH1exUrSh8)
 
