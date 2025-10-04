@@ -84,8 +84,8 @@ Please read the following readings before coming to class. Each reading just a f
 
 - Discussion Topic: What is a body? Should it be online? Why? How? 
 - Discussion of homework readings 
-- Independent and group activity, [Group Activity Board]()
-- Mocap history, forms, body politics, [Google Slides](https://docs.google.com/presentation/d/1qgpGtGiLlRR9DyI5A3oMUjLAOiqBMJOShj-jgAmCoL4/edit?usp=sharing)
+- Independent and group activity, Group Activity Board — LINK TO COME 
+- Mocap history, forms, body politics, Google Slides — LINK TO COME 
 
 ### Code Block 1
 
@@ -94,7 +94,7 @@ Please read the following readings before coming to class. Each reading just a f
 
 #### Examples 
 
-- Examples - link to come 
+- Examples — LINK TO COME 
 
 #### Resources
 
@@ -106,7 +106,7 @@ Please read the following readings before coming to class. Each reading just a f
 ### Code Block 2 
 
 - Computer vision in 3D: how does the computer see the body in 3D
-- Working with Kinect and Kinectron 
+- Working with Kinect via Kinectron 
 
 ## Day Two In Class Materials 
 
@@ -120,8 +120,8 @@ Please read the following readings before coming to class. Each reading just a f
 
 ### Theory 
 
-- Embodied interaction in the "third space" [Google Slides](https://docs.google.com/presentation/d/1sJ4Vd6ZlwUMPAeQ3eFfkatguL00LWJLsXO679xzlBXY/edit?usp=sharing) 
-- [Group Activity Board](https://docs.google.com/presentation/d/1rfqIA6Xt9TIUAlnKEouHUfaCz-RMQv6XuWOljKEdzjg/edit?usp=sharing) 
+- Embodied interaction in the "third space" Google Slides — LINK TO COME 
+- Group Activity Board — LINK TO COME 
 
 ### Code
 
@@ -148,17 +148,7 @@ Please read the following readings before coming to class. Each reading just a f
 
 ### Practice 
 
-Create a rough prototype for two or more people that requires some type of interaction between two bodies. Can you interact without using your hands? Before you begin building consider the following questions:
-
-1. What is the interaction you are trying to create? How do you want the participants to feel / move / etc?
-2. How can you achieve this through design and code?
-
-### Practice 
-
-- Create a rough prototype of a single-person experience that takes into account form and quality of movement. The experience should have a clear goal. Before you begin building discuss the following with your partner: 
-1. how do you want the participant to feel / move / etc?
-2. how can you acheive this through design and code?
-
+Exercise to come. 
 
 ## More resources 
 
