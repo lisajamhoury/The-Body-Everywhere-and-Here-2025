@@ -58,16 +58,16 @@ We will be coding using p5. If you'd like to follow along in class please make s
 
 ### Required reading for class! Complete before the first class! 
 
-Please read the following readings before coming to class. Each reading just a few pages, but some of them are a bit thick. Give yourself some time to read and digest. We'll be discussing the materials at the top of our first class, and I'll be looking forward to hearing your thoughts. 
+Please read the following readings before coming to class. Each reading is just a few pages, but some of them are a bit thick. Give yourself some time to read and digest. We'll be discussing the materials at the top of our first class, and I'll be looking forward to hearing your thoughts. 
 
 - Readings located on [Google Drive here](https://drive.google.com/drive/folders/1f38QY-0t23d-S_U3265s8vtKPOPRodG3?usp=sharing). Requires NYU Login to access. 
 - [Phenomenology of perception by Maurice Merleau-Ponty](https://drive.google.com/file/d/1xHP96xLGLJasFpEcwCLtYRBVf29x2N0x/view?usp=drive_link), pages 92-94 (through "what sees and touches")
-- [Here/There: Telepresence, Touch, and Art at the Interface by Kris Paulsen](https://drive.google.com/file/d/18o0pNtYZz6qwTM3kNTxX41P0NaaCAPya/view?usp=drive_link), section titled "Telepresent Touch" pages 6-8, starting at bottom of page 6.
+- [Here/There: Telepresence, Touch, and Art at the Interface by Kris Paulsen](https://drive.google.com/file/d/18o0pNtYZz6qwTM3kNTxX41P0NaaCAPya/view?usp=drive_link), section titled "Telepresent Touch" pages 6-8, starting at bottom of page 6
 - Closer: Performance, Technologies, Phenomenology by Susan Kozel, Adam Eeuwens, [pdf](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/closer_2.pdf) | [audio file](https://github.com/lisajamhoury/Experiments-on-the-Embodied-Web-2024/tree/main/media)
-- [The Extended Mind: The Power of Thinking Outside the Brain](https://drive.google.com/file/d/1aN4eHnycAdRNbcw_qE5w3I9PfP2-yqf-/view?usp=drive_link) Pages 1-2.
+- [The Extended Mind: The Power of Thinking Outside the Brain](https://drive.google.com/file/d/1aN4eHnycAdRNbcw_qE5w3I9PfP2-yqf-/view?usp=drive_link) Pages 1-2
 - [The End of Average, Todd Rose, pages 1-9](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/end_of_avg_intro.pdf)
 
-- Exercise: While reading highlight the lines that stand out to you. For each reading, pick JUST ONE SENTENCE from EACH reading (3 sentences total, one from each reading) Place the 3 sentences in [this Google Doc](https://docs.google.com/document/d/1A0V8LHyBihUWhVIEXwnBUHjbtIPFuhpoxOew1G3grZQ/edit?usp=sharing) along with your first and last name. Requires NYU Login to access doc. Must be completed before class begins.
+- Exercise: While reading, highlight the lines that stand out to you. For each reading, pick JUST ONE SENTENCE from EACH reading (5 sentences total). Place the sentences in [this Google Doc](https://docs.google.com/document/d/1A0V8LHyBihUWhVIEXwnBUHjbtIPFuhpoxOew1G3grZQ/edit?usp=sharing) along with your first and last name. Requires NYU Login to access doc. Must be completed before class begins.
 
 ## Day One In Class Materials
 
