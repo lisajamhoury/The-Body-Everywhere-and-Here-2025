@@ -75,17 +75,16 @@ Please read the following readings before coming to class. Each reading is just 
 
 11:40 - 1:35pm — Syllabus, Intros, Theory  
  1:35 - 1:50pm — Break 1 (15 minute)  
- 1:50 - 3:45pm — Code - motion detection with webcam   
+ 1:50 - 3:45pm — Code - motion detection with webcam / frame buffers  
  3:45 - 4:15pm — Break 2 (30 minute)  
- 4:15 - 6:10pm — Code - motion detection with Kinect 
-
+ 4:15 - 6:10pm — Code - motion detection with Kinect / 3D frame buffers
 
 ### Theory 
 
-- Discussion Topic: What is a body? Should it be online? Why? How? 
+- Discussion Topic: What is a body? Can it be online? Why? How? 
 - Discussion of homework readings 
-- Independent and group activity, Group Activity Board — LINK TO COME 
-- Mocap history, forms, body politics, Google Slides — LINK TO COME 
+- Independent and group activity, [Group Activity Board](https://docs.google.com/presentation/d/1OPqotwMUoPWjCXNPqZuH5WtbOx9-1uApTpJBK9XvGKw/edit?usp=sharing)
+- Mocap history, forms, body politics, [Google Slides](https://docs.google.com/presentation/d/1qgpGtGiLlRR9DyI5A3oMUjLAOiqBMJOShj-jgAmCoL4/edit?usp=sharing)
 
 ### Code Block 1
 
@@ -112,19 +111,19 @@ Please read the following readings before coming to class. Each reading is just 
 
 ### Rough Schedule 
 
-12:10 - 1:55pm — Theory  
+12:10 - 1:55pm — Theory + Code | "The Third Space" and Code - keypoints / peer to peer  
  1:55 - 2:10pm — Break 1 (15 minute)  
- 2:10 - 3:55pm — Code - peer to peer 
+ 2:10 - 3:55pm — Practice — Site specific choreography / Practice — Design  
  3:55 - 4:25pm — Break 2 (30 minute)  
- 4:25 - 6:10pm — Practice    
+ 4:25 - 6:10pm — Practice — Building / Sharing  
 
 ### Theory 
 
-- Embodied interaction in the "third space" Google Slides — LINK TO COME 
-- Group Activity Board — LINK TO COME 
+- Embodied interaction in the "third space" [Google Slides](https://docs.google.com/presentation/d/1sJ4Vd6ZlwUMPAeQ3eFfkatguL00LWJLsXO679xzlBXY/edit?usp=sharing)
 
 ### Code
 
+- Pose detection  
 - Peer to peer
   
 #### Examples 
@@ -142,13 +141,14 @@ Please read the following readings before coming to class. Each reading is just 
 - [ml5 BodyPose](https://docs.ml5js.org/#/reference/bodypose)
 - [p5LiveMedia](https://github.com/vanevery/p5LiveMedia?tab=readme-ov-file)
 - [HSB to RGB](https://stackoverflow.com/questions/17242144/javascript-convert-hsb-hsv-color-to-rgb-accurately/54024653)
-- [Kinectron](https://kinectron.github.io/)
-- [Kinectron Server Version 0.3.9](https://github.com/kinectron/kinectron/releases/tag/0.3.9)
+- [Kinectron](https://github.com/kinectron/kinectron)
+- [Kinectron Server Version 1.0.0](https://github.com/kinectron/kinectron/releases/tag/1.0.0)
 
 
 ### Practice 
 
-Exercise to come. 
+- Site Specificity [Google Slides](https://docs.google.com/presentation/d/180KTU7JPKgmlsCNdwS-9RZiReiaFDDdolEXk-wSSa18/edit?usp=sharing) 
+- Exercise to come. 
 
 ## More resources 
 
