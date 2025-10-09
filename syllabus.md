@@ -97,6 +97,7 @@ Please read the following readings before coming to class. Each reading is just 
 
 #### Resources
 
+- [Navigating the array exercise](https://editor.p5js.org/lisajamhoury/sketches/3AW_uKOky)
 - [Cat image](examples/assets/cat.jpg)
 - [BodyPose](https://docs.ml5js.org/#/reference/bodypose)
 - [Keypoint smoothing](https://javascript.plainenglish.io/simple-smoothing-for-posenet-keypoints-cd1bc57f5872)
