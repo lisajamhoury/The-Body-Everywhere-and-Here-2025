@@ -157,19 +157,30 @@ function prepareMesh(colorIndex) {
 
 function initKinectron() {
   // Create kinectron with specified ip address
-  const kinectron = new Kinectron("10.18.181.149");
-  // Choose kinect type
-  kinectron.setKinectType("azure");
+  const kinectron = new Kinectron("10.0.1.157");
+  
+  // When ready start a feed
+  kinectron.on("ready", () => {
+    console.log("Connected to Kinectron server");
+   
+    // Start the body tracking stream
+    kinectron.startBodies((bodyFrame) => {
+      // Process the body frame
+      if (bodyFrame.bodies.length > 0) {
+        // get the joints to pass into the visualization
+        getJoints(bodyFrame.bodies[0].skeleton.joints);
+      }
+    });
+  });
+
   // Connect to the server
-  kinectron.makeConnection();
-  // Start the bodies feed and set a callback to use for incoming data
-  kinectron.startTrackedBodies(getJoints);
+  kinectron.peer.connect();
 }
 
 // Runs every time we get data from the kinectron server
 function getJoints(data) {
   // Set global joints array to incoming data
-  joints = data.skeleton.joints;
+  joints = data;
 }
 
 // From https://github.com/spite/THREE.MeshLine/blob/master/demo/spinner.html

@@ -27,25 +27,28 @@ let colors = [];
 function initKinectron() {
   // Replace the ip address with the kinectron server ip address
   // remember to keep the '' quotes
-  const kinectronServerIPAddress = "10.18.181.149"; // FILL IN YOUR KINECTRON IP ADDRESS HERE
+  const kinectronServerIPAddress = "10.0.1.157"; // FILL IN YOUR KINECTRON IP ADDRESS HERE
 
   // Create an instance of Kinectron
   kinectron = new Kinectron(kinectronServerIPAddress);
 
-  // Set kinect type to azure
-  kinectron.setKinectType("azure");
+  kinectron.on("ready", () => {
+    console.log("Connected to Kinectron server");
+    kinectron.startDepthKey(dkCallback);
+  });
 
-  // Connect remote to application
-  kinectron.makeConnection();
+  kinectron.peer.connect();
 
-  // Start depth key feed and set a callback
-  kinectron.startDepthKey(dkCallback);
 }
 
 // Run this callback each time Kinect data is received
 function dkCallback(depthBuffer) {
-  // Update point cloud based on incoming Kinect data
-  pointCloud(depthBuffer);
+  // decode from image to depth array 
+  depthDecoder.decode(depthBuffer, (decodedArray) => {
+    // Update point cloud based on incoming Kinect data
+    pointCloud(decodedArray);
+  });
+  
 }
 
 // Create the three.js scene
@@ -195,6 +198,9 @@ window.addEventListener("resize", onWindowResize, false);
 window.addEventListener("load", function () {
   // Create three js scene
   initThreeJS();
+
+  // init depthDecoder   
+  depthDecoder = new DepthDecoder(DEPTHWIDTH, DEPTHHEIGHT);
 
   // Start kinectron
   initKinectron();
