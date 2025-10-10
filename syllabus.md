@@ -91,6 +91,10 @@ Please read the following readings before coming to class. Each reading is just 
 - Computer vision: how does the computer see the body
 - Understanding framebuffers and keypoints 
 
+#### Examples 
+
+- To come 
+
 #### Resources
 
 - [Navigating the array exercise](https://editor.p5js.org/lisajamhoury/sketches/3AW_uKOky)
@@ -101,9 +105,9 @@ Please read the following readings before coming to class. Each reading is just 
 - Computer vision in 3D: how does the computer see the body in 3D
 - Working with Kinect via Kinectron
 
-- #### Examples 
+#### Examples 
 
-- Examples — LINK TO COME 
+- To come 
 
 #### Resources 
 
@@ -139,8 +143,8 @@ Please read the following readings before coming to class. Each reading is just 
   
 #### Examples 
 
-- [Examples]() — LINK TO COME
-
+- To come
+  
 #### Resources
 
 - [ml5 BodyPose](https://docs.ml5js.org/#/reference/bodypose)
@@ -150,8 +154,8 @@ Please read the following readings before coming to class. Each reading is just 
 
 ### Practice 
 
-- Site Specificity [Google Slides](https://docs.google.com/presentation/d/180KTU7JPKgmlsCNdwS-9RZiReiaFDDdolEXk-wSSa18/edit?usp=sharing) 
-- Exercise to come. 
+- Site Specificity | Google Slides 
+- Exercise to come
 
 ## More resources 
 
