@@ -91,22 +91,32 @@ Please read the following readings before coming to class. Each reading is just 
 - Computer vision: how does the computer see the body
 - Understanding framebuffers and keypoints 
 
-#### Examples 
-
-- Examples — LINK TO COME 
-
 #### Resources
 
 - [Navigating the array exercise](https://editor.p5js.org/lisajamhoury/sketches/3AW_uKOky)
 - [Cat image](examples/assets/cat.jpg)
-- [BodyPose](https://docs.ml5js.org/#/reference/bodypose)
-- [Keypoint smoothing](https://javascript.plainenglish.io/simple-smoothing-for-posenet-keypoints-cd1bc57f5872)
-- [Keypoint smoothing example](https://editor.p5js.org/lisajamhoury/sketches/oB3r4UNOT)
 
 ### Code Block 2 
 
 - Computer vision in 3D: how does the computer see the body in 3D
-- Working with Kinect via Kinectron 
+- Working with Kinect via Kinectron
+
+- #### Examples 
+
+- Examples — LINK TO COME 
+
+#### Resources 
+
+- [HSB to RGB](https://stackoverflow.com/questions/17242144/javascript-convert-hsb-hsv-color-to-rgb-accurately/54024653)
+- [DepthDecoder](https://gist.github.com/lisajamhoury/aa516fe5c3c487eda9bd78af99955d86)
+- [Kinectron](https://github.com/kinectron/kinectron)
+- [Kinectron Server Releases](https://github.com/kinectron/kinectron/releases)
+
+#### Additional Examples 
+
+- [Kinectron Feed Test, Azure](/examples/other/01-kinectron-feed-test/) 
+- [Kinectron Three.js Ribbons](/examples/other/02-kinectron-3js-ribbons/) 
+- [Kinectron Three.js Pointcloud](/examples/other/03-kinectron-3js-pointcloud/) 
 
 ## Day Two In Class Materials 
 
@@ -129,22 +139,14 @@ Please read the following readings before coming to class. Each reading is just 
   
 #### Examples 
 
-- [Examples]() — LINK TO COME 
+- [Examples]() — LINK TO COME
 
-#### Additional Examples 
-
-- [Kinectron Feed Test, Azure](/examples/other/01-kinectron-feed-test/) 
-- [Kinectron Three.js Ribbons](/examples/other/02-kinectron-3js-ribbons/) 
-- [Kinectron Three.js Pointcloud](/examples/other/03-kinectron-3js-pointcloud/) 
-
-#### Resources 
+#### Resources
 
 - [ml5 BodyPose](https://docs.ml5js.org/#/reference/bodypose)
+- [Keypoint smoothing](https://javascript.plainenglish.io/simple-smoothing-for-posenet-keypoints-cd1bc57f5872)
+- [Keypoint smoothing example](https://editor.p5js.org/lisajamhoury/sketches/oB3r4UNOT)
 - [p5LiveMedia](https://github.com/vanevery/p5LiveMedia?tab=readme-ov-file)
-- [HSB to RGB](https://stackoverflow.com/questions/17242144/javascript-convert-hsb-hsv-color-to-rgb-accurately/54024653)
-- [Kinectron](https://github.com/kinectron/kinectron)
-- [Kinectron Server Version 1.0.0](https://github.com/kinectron/kinectron/releases/tag/1.0.0)
-
 
 ### Practice 
 
@@ -179,8 +181,8 @@ Please read the following readings before coming to class. Each reading is just 
 - [Understanding Kinect V2 Joints and Coordinate System](https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16)
 
 #### Kinectron
-- [Kinectron](https://kinectron.github.io/)
-- [Kinectron Server Version 0.3.9](https://github.com/kinectron/kinectron/releases/tag/0.3.9)
+- [Kinectron](https://github.com/kinectron/kinectron)
+- [Kinectron Server Releases](https://github.com/kinectron/kinectron/releases)
 - [Kinectron Bootcamp Install by Jake Sherwood](https://jakesherwood.com/blog/body_ewah/kinectron-install)
 - [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
 - [More Kinectron Examples](https://kinectron.github.io/docs/example-simple-skeleton.html) | Includes [Skeleton Example](https://kinectron.github.io/docs/example-skeleton-images-windows.html) 
