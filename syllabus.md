@@ -136,7 +136,7 @@ Please read the following readings before coming to class. Each reading is just 
 
 - Embodied interaction in the "third space" [Google Slides](https://docs.google.com/presentation/d/1sJ4Vd6ZlwUMPAeQ3eFfkatguL00LWJLsXO679xzlBXY/edit?usp=sharing)
 
-### Code
+### Code Block 3
 
 - Pose detection  
 - Peer to peer
