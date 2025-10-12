@@ -111,7 +111,7 @@ Please read the following readings before coming to class. Each reading is just 
 
 #### Additional Examples 
 
-- [Kinectron Feed Test, Azure](/examples/other/01-kinectron-feed-test/) 
+- [Kinectron Getting Started](/examples/other/01-kinectron-feed-test/) 
 - [Kinectron Three.js Ribbons](/examples/other/02-kinectron-3js-ribbons/) 
 - [Kinectron Three.js Pointcloud](/examples/other/03-kinectron-3js-pointcloud/) 
 
