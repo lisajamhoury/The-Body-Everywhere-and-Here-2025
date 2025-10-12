@@ -143,7 +143,7 @@ Please read the following readings before coming to class. Each reading is just 
   
 #### Examples 
 
-- To come
+- [Class Examples](examples/day_two)
   
 #### Resources
 
@@ -158,7 +158,7 @@ For this section of class we'll be joined by Maia Sauer. Maia Sauer is an artist
 
 - [Google Slides: Site specificity](https://docs.google.com/presentation/d/180KTU7JPKgmlsCNdwS-9RZiReiaFDDdolEXk-wSSa18/edit?usp=sharing)
 
-- Practice — Excercise to come! Woot.
+- Practice — [Excercise Board](https://docs.google.com/presentation/d/1c8aM3PYwrc6dhDQgq5WBvNAXvSquQOWbYivrFemBVEI/edit?usp=sharing)
 
 ## More resources 
 
