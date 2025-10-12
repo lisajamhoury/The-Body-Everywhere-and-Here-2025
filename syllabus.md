@@ -89,11 +89,11 @@ Please read the following readings before coming to class. Each reading is just 
 ### Code Block 1
 
 - Computer vision: how does the computer see the body
-- Understanding framebuffers and keypoints 
+- Understanding framebuffers 
 
 #### Examples 
 
-- To come 
+- [Web cam examples](examples/day_one/session-1-webcam)
 
 #### Resources
 
@@ -107,7 +107,13 @@ Please read the following readings before coming to class. Each reading is just 
 
 #### Examples 
 
-- To come 
+- [Kinect / Kinectron examples](examples/day_one/session-2-kinect)
+
+#### Additional Examples 
+
+- [Kinectron Feed Test, Azure](/examples/other/01-kinectron-feed-test/) 
+- [Kinectron Three.js Ribbons](/examples/other/02-kinectron-3js-ribbons/) 
+- [Kinectron Three.js Pointcloud](/examples/other/03-kinectron-3js-pointcloud/) 
 
 #### Resources 
 
@@ -115,12 +121,6 @@ Please read the following readings before coming to class. Each reading is just 
 - [DepthDecoder](https://gist.github.com/lisajamhoury/aa516fe5c3c487eda9bd78af99955d86)
 - [Kinectron](https://github.com/kinectron/kinectron)
 - [Kinectron Server Releases](https://github.com/kinectron/kinectron/releases)
-
-#### Additional Examples 
-
-- [Kinectron Feed Test, Azure](/examples/other/01-kinectron-feed-test/) 
-- [Kinectron Three.js Ribbons](/examples/other/02-kinectron-3js-ribbons/) 
-- [Kinectron Three.js Pointcloud](/examples/other/03-kinectron-3js-pointcloud/) 
 
 ## Day Two In Class Materials 
 
