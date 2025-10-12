@@ -128,7 +128,7 @@ Please read the following readings before coming to class. Each reading is just 
 
 12:10 - 1:55pm — Theory + Code | "The Third Space" and Code - keypoints / peer to peer  
  1:55 - 2:10pm — Break 1 (15 minute)  
- 2:10 - 3:55pm — Practice — Site specific choreography / Practice — Design  
+ 2:10 - 3:55pm — Theory: Site specificity / Practice — Design (with Maia Sauer)
  3:55 - 4:25pm — Break 2 (30 minute)  
  4:25 - 6:10pm — Practice — Building / Sharing  
 
@@ -148,14 +148,17 @@ Please read the following readings before coming to class. Each reading is just 
 #### Resources
 
 - [ml5 BodyPose](https://docs.ml5js.org/#/reference/bodypose)
+- [p5LiveMedia](https://github.com/vanevery/p5LiveMedia?tab=readme-ov-file)
 - [Keypoint smoothing](https://javascript.plainenglish.io/simple-smoothing-for-posenet-keypoints-cd1bc57f5872)
 - [Keypoint smoothing example](https://editor.p5js.org/lisajamhoury/sketches/oB3r4UNOT)
-- [p5LiveMedia](https://github.com/vanevery/p5LiveMedia?tab=readme-ov-file)
 
-### Practice 
+### Theory and Practice 
 
-- Site Specificity | Google Slides 
-- Exercise to come
+For this section of class we'll be joined by Maia Sauer. Maia Sauer is an artist and writer working across text, performance, and film. She’s interested in the poetic interdependence of living bodies, considering rest, grief, desire, and ecological change. Her work has been supported by MOtiVE Brooklyn, Movement Research, Brooklyn Poets, and the Vermont Arts Council, and her writing appears or is forthcoming in Culturebot and Strange Hymnal. Maia is an editor at Lullaby Machine, an e-magazine and digital lullaby library.
+
+- [Google Slides: Site specificity](https://docs.google.com/presentation/d/180KTU7JPKgmlsCNdwS-9RZiReiaFDDdolEXk-wSSa18/edit?usp=sharing)
+
+- Practice — Excercise to come! Woot.
 
 ## More resources 
 
