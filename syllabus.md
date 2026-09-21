@@ -1,11 +1,3 @@
-### Links! 
-
-- [Cource Evaluation Link](https://go.blueja.io/6wTc0lZevEq-TYR2OEdItQ)
-- [sync : mirror // Playtest 001 Onassis ONX // Oct 22 4-6pm](https://www.eventbrite.com/e/sync-mirror-playtest-001-tickets-1774792134049)
-
-
-----
-
 Quick links: [Class Preparation](#class-preparation) | [Day One](#day-one-in-class-materials) | [Day Two](#day-two-in-class-materials) 
 
 ## The Body Everywhere and Here 
